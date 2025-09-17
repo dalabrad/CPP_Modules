@@ -36,6 +36,7 @@
 *.exe
 *.out
 *.app
+megaphone
 
 # debug information files
 *.dwo
